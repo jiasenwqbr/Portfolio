@@ -118,5 +118,17 @@ Credit data resource directory management
 数据质量的管理
 信用数据资源目录的管理
 
+### Technology used 所用技术
 
+- Front-end 前端
+
+​       Angular
+
+- Back-end 后端
+
+  Springboot 、kettle core
+
+- Data 数据端
+
+  mysql、oracle、hadoop、hive...
 
