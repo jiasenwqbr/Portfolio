@@ -11,3 +11,5 @@
 [004 Data management system 数据管理系统](https://github.com/jiasenwqbr/Portfolio/blob/main/004Data_management_system.md)
 
 [005 Data asert 数据资产管理 ](https://github.com/jiasenwqbr/Portfolio/blob/main/005Data_assert.md)
+
+[006Data mining and analysis 数据分析挖掘](https://github.com/jiasenwqbr/Portfolio/blob/main/006Data_mining_and_analysis_platform.md)

@@ -44,6 +44,8 @@ Analyze and monitor the platform's data volume, data collection, data governance
 
 ![image-20241018093857883](images/image-20241018093857883.png)
 
+![image-20241018095935009](images/image-20241018095935009.png)
+
 ### Technology used 所用技术
 
 - Front-end 前端
