@@ -64,8 +64,8 @@ The data management system mainly completes data collection, data quality manage
 
 - Back-end 后端
 
-  Springboot 、SpringCloud
+  Springboot ,SpringCloud
 
 - Data 数据端
 
-  mysql、oracle、hadoop、hive、spark...
+  mysql,oracle,hadoop,hive,spark,Hbase...
