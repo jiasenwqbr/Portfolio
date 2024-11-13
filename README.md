@@ -16,6 +16,8 @@
 
 007Data Center 数据中台
 
+[008 Credit big data analysis system 信用大数据分析系统](008Credit_big_data_analysis_system.md)
+
 
 
 ## web3
