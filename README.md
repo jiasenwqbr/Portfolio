@@ -18,7 +18,21 @@
 
 [008 Credit big data analysis system 信用大数据分析系统](008Credit_big_data_analysis_system.md)
 
+009 Multi-party secure computing (privacy computing) 多方安全计算（隐私计算）
 
+## Project 项目类
+
+信用中国
+
+信用四川
+
+信用泸州
+
+信用济宁
+
+福州政务
+
+福州茉莉分
 
 ## web3
 
