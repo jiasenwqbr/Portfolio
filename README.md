@@ -36,6 +36,18 @@
 
 ## web3
 
+[PI HERO](https://github.com/jiasenwqbr/PI-HERO-contract)
+
+[数字灵性领域· Web3 信仰生态系统](https://github.com/jiasenwqbr/BuddhaAllBeings)
+
+[榨橙汁游戏](https://github.com/jiasenwqbr/orange-juice-contract)
+
+[JW Swap](https://github.com/jiasenwqbr/jwswap/blob/main/JWSWAP.md)
+
+[亚洲电视资讯](https://github.com/jiasenwqbr/INFO-pancakeswap/blob/main/%E4%BA%9A%E6%B4%B2%E7%94%B5%E8%A7%86.pdf)
+
+[UAC NFT 质押系统](https://github.com/jiasenwqbr/pijscontract)
+
 [ethSpider](https://github.com/jiasenwqbr/ethSpider)
 
 [dapp-tools](https://github.com/jiasenwqbr/dapp-tools)
@@ -50,15 +62,11 @@
 
 [token-exchange](https://github.com/jiasenwqbr/token-exchange)
 
-
-
 ## Internet Project互联网项目
 
 动力商城
 
 极客网
-
-
 
 ## Other
 
@@ -72,5 +80,4 @@
 
 [flinkOracleCDC](https://github.com/jiasenwqbr/flinkOracleCDC)
 
-[konw](https://github.com/jiasenwqbr/konw)    [know-admin](https://github.com/jiasenwqbr/know-admin)
-
+[konw](https://github.com/jiasenwqbr/konw) [know-admin](https://github.com/jiasenwqbr/know-admin)
